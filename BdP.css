@@ -1,0 +1,42 @@
+header {
+    background-color: #fcd770;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 1%;
+}
+
+.logo { 
+    width: 30%;
+}
+
+ footer { 
+     display: grid;
+     grid-template-columns: auto;
+     grid-template-rows: auto;
+     background-color: black;
+ }
+
+ h2 {
+     text-align: center;
+     color: white;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 20px;
+ }
+
+ .img {
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+      
+    background-image: url(skov.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+    margin: 0;
+  }
