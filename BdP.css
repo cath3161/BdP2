@@ -27,7 +27,11 @@ header {
  }
 
  .img {
-    width: 100%;
+    width: 80%;
+    margin: 10%;
+    margin-top: 5%;
+    border-style: solid;
+    height: 650px;
 }
 
 * {
@@ -41,4 +45,30 @@ header {
     background-size: cover; 
     background-attachment: fixed;
     margin: 0;
+
   }
+
+  main {
+      background-color: cornsilk;
+      margin-right: 12%;
+      margin-left: 12%; 
+  }
+
+  h1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: #fcd770;
+      margin: 3%;
+  }
+  .maerke {
+      border-radius: 50%;
+      width: 12%;
+      margin: 10%;
+  }
+
+  p {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 15px;
+      color:#000000;
+      margin: 3%;
+  
+    }
