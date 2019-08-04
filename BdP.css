@@ -3,7 +3,7 @@ header {
     text-align: center;
     margin-top: 0%;
     margin-bottom: 0%;
-    padding: 1%;
+    padding: 0.5%;
 }
 
 .flag1, .flag2  {
@@ -15,9 +15,11 @@ header {
 
 .nydam {
     border-radius: 50%;
-    float: left;
 }
 
+.logo {
+  padding-left: 5%;
+}
  footer { 
      display: grid;
      grid-template-columns: auto;
